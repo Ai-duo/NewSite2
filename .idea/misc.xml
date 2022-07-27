@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/gitproject/NewSite/app/src/main/res/layout/activity_four_tw_256x128.xml" value="0.23505434782608695" />
+        <entry key="..\:/gitproject/NewSite/app/src/main/res/layout/activity_six_t_256x128.xml" value="0.23505434782608695" />
+        <entry key="..\:/gitproject/NewSite/app/src/main/res/layout/element_fragment.xml" value="0.23505434782608695" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
